@@ -1,0 +1,34 @@
+_repo: The-Silence--What-It-Is-and-How-To-Use-It_13136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bush, David V. (David Van)
+    alias: Bush, David Van
+    birthdate: 1882
+    deathdate: 1959
+    gutenberg_agent_id: '4858'
+    url: http://www.gutenberg.org/2009/agents/4858
+description: Title; Contents; Approach To The Silence; Health Silence; Thought To
+  Hold In The Silence For Abundance; Thought To Hold In Meditation In The Silence
+  For Misfortunes, Grief, Mistakes, Reverses, Failure, Sorrow, Loss And Disappointmen;
+  For Harmony, Peace, Comfort; Thought To Hold As A Basis For This Silence For Success;
+  Abundance; Health, Success, Prosperity, Universal Peace And Brotherhood; How To
+  Have More; All Things Are In Divine Order; Thought To Hold In Silence And To Meditate
+  Upon During The Day For Justice; Exercises.
+gutenberg_issued: '2004-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology, Applied'
+- !lcc 'BF'
+- !lcsh 'New Thought'
+title: 'The Silence: What It Is and How To Use It'
+url: http://www.gutenberg.org/ebooks/13136
